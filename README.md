@@ -223,7 +223,7 @@ SaaS(Software as a Service)deployment supported, reducing massively your integra
 
 We are happy to provide technical support for our open-source trustdevice-android library. We recommend using GitHub Issues to submit bugs or Discussions to ask questions. Using issues and discussions publicly will help the open-source community and other users with similar issues.
 
-In addition, any idea or interest in using TrustDevice Pro can be found on the official website(https://www.trustdecision.com), registered account, free trial; Or via email(TrustDevice@TrustDecision.com), contact us directly and quickly open the service.
+In addition, any idea or interest in using TrustDevice Pro can be found on the [official website](https://www.trustdecision.com), registered account, free trial; Or via email(TrustDevice@TrustDecision.com), contact us directly and quickly open the service.
 
 ## TrustDevice Android Demo App
 
