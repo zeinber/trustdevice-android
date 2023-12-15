@@ -34,6 +34,10 @@ Create a device identifier based on basic device information.
 
 Will remain the same after uninstalling and reinstalling or clearing app data.
 
+🪧Attention🪧：The functions of the basic version of github are relatively limited.
+
+You can visit AWS Marketplace or TrustDecision to learn about our professional version.
+
 ## Quick start
 
 ### 1. Add repository
